@@ -4,6 +4,12 @@ I love coming up with random ideas and turning them into real projects. Whether 
 
 ---
 
+### 🎧 Currently listening
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314maiesfxfqyngacbuoniqi5y5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314maiesfxfqyngacbuoniqi5y5y&redirect=true)
+
+---
+
 ### 🛠 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
